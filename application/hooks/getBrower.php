@@ -1,4 +1,3 @@
-```php
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 function _getBrowser(){
     // $CI = & get_instance();
@@ -65,5 +64,3 @@ function _getBrowser(){
         'pattern'=>$pattern
     );
 }
-
-```
